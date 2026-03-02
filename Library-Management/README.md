@@ -47,3 +47,61 @@ This project allows managing books and members, including borrowing and returnin
 ---
 
 ## 📂 Project Structure
+
+Library-Management/
+│
+├── main.py # CLI Version
+├── streamlit_ui.py # Streamlit Web Version
+├── library.json # Database File
+└── README.md
+
+
+---
+
+## ▶️ How To Run
+
+### 🔹 Run CLI Version
+
+python main.py
+
+🔹 Run Streamlit Web App
+
+First install Streamlit (if not installed):
+
+pip install streamlit
+
+Then run:
+
+streamlit run streamlit_ui.py
+
+The web app will open in your browser.
+
+🧠 Key Learning Outcomes
+
+Designing structured data models
+
+Managing state with JSON storage
+
+Implementing borrowing logic with consistency checks
+
+Working with both CLI and Web interfaces
+
+Applying OOP principles in a real-world scenario
+
+📌 Future Improvements
+
+Add search functionality (by title or author)
+
+Add book update/delete feature
+
+Add due dates and fine calculation
+
+Add authentication system
+
+Replace JSON with SQLite database
+
+👨‍💻 Author
+
+Saket Sonparote
+
+⭐ This project was built to strengthen core Python and OOP fundamentals before moving into advanced Data Science projects.
