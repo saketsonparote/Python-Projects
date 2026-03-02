@@ -8,8 +8,11 @@ This project allows users to create, read, update, and delete files and folders 
 📁 Folder Operations
 
 Create a folder
+
 List all files and folders (recursive view)
+
 Rename a folder
+
 Delete a folder
 
 📄 File Operations
@@ -56,3 +59,4 @@ Code modularization using functions
 
 👨‍💻 Author
 Saket Sonparote
+
