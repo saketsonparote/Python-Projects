@@ -1,0 +1,56 @@
+{
+    "books": [
+        {
+            "id": "B-8XLJO",
+            "title": "Game of Thrones",
+            "author": "saket",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2026-03-03 03:17:34"
+        },
+        {
+            "id": "B-ZZK1T",
+            "title": "Breaking Bad",
+            "author": "lucky",
+            "total_copies": 25,
+            "available_copies": 25,
+            "added_on": "2026-03-03 03:18:23"
+        },
+        {
+            "id": "B-BD370",
+            "title": "chodika",
+            "author": "chodiki",
+            "total_copies": 12,
+            "available_copies": 11,
+            "added_on": "2026-03-03 04:46:40"
+        },
+        {
+            "id": "B-4611T",
+            "title": "faadu",
+            "author": "saadu",
+            "total_copies": 13,
+            "available_copies": 13,
+            "added_on": "2026-03-03 04:47:16"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-S8NO9",
+            "name": "saket",
+            "email": "saket@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-1EVQ6",
+            "name": "nikhil",
+            "email": "nikhil@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-BD370",
+                    "title": "chodika",
+                    "borrow_on": "2026-03-03 04:48:24"
+                }
+            ]
+        }
+    ]
+}
